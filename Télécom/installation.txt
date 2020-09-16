@@ -1,0 +1,5 @@
+* décompresser le fichier .rar
+* déplacer le dossier /projet_ecam/ dans WAMP (dossier /www/) ou XAMPP (dossier /htdocs/)
+* aller dans phpmyadmin, créer une nouvelle base de données nommée "personnes"
+* dans l'onlet "importer" importer le fichier personnes.sql dans le dossier ecam et cliquer sur executer/envoyer
+* une fois la bdd bien importée, ouvrir le lien http://localhost/projet_ecam/index.php
